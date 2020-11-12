@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "647080739276",
+    "firebase_url": "https://chat-app-52f00.firebaseio.com",
+    "project_id": "chat-app-52f00",
+    "storage_bucket": "chat-app-52f00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647080739276:android:dbac5d3dd43d18bc191d69",
+        "android_client_info": {
+          "package_name": "com.hezlin.messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647080739276-no68vn1n569rfb0vn5n4uhk192s2m9vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqwxXRaq0F1-118qlVidox66AiBi4XR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647080739276-no68vn1n569rfb0vn5n4uhk192s2m9vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
